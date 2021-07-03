@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 name: compsec
 title: null
+plugins:
+  - jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     true
